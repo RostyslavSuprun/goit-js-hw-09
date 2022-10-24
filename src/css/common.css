@@ -38,5 +38,8 @@ button[data-start], button[data-stop] {
 }
  span.value {
   font-size: large;
-  
+ }
+ button.start_timer {
+  height: 35px;
+ 
  }
