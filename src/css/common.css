@@ -25,3 +25,18 @@ button[data-start], button[data-stop] {
   margin-right: 15px;
 
 }
+.timer {
+  display: flex;
+  flex-direction: row;
+}
+.field {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 5px;
+ 
+}
+ span.value {
+  font-size: large;
+  
+ }
